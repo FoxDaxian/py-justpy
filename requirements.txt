@@ -21,7 +21,7 @@ lxml==4.6.5
 MarkupSafe==1.0
 matplotlib==2.2.2
 mccabe==0.6.1
-numpy==1.14.2
+numpy==1.22.0
 parso==0.1.1
 pathtools==0.1.2
 pexpect==4.4.0
